@@ -43,7 +43,7 @@
     -webkit-transition: background-color 0.3s ease-in-out;
     transition: background-color 0.3s ease-in-out;
   }
-
+ 
   #mainNav .navbar-brand {
     padding: .5rem 0;
     color: #f9fffe;
@@ -66,10 +66,10 @@
   #mainNav.navbar-shrink {
     background-color: #fff;
   }
-
+  
   #mainNav.navbar-shrink .navbar-brand {
    color: #161616
-
+   
   }
   #mainNav.navbar-shrink .nav-link {
     color: #161616;
@@ -104,7 +104,7 @@
   background-position: center;
   background-attachment: scroll;
   background-size: cover;
-
+  
 }
 
 .masthead img {
@@ -119,7 +119,7 @@
   color: white;
   background: -webkit-linear-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.89));
   -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
+  -webkit-background-clip: text; 
 }
 
 .masthead h2 {
@@ -157,7 +157,7 @@
 
 
 .backgrnd {
-  opacity: 0.1;
+  opacity: 0.1; 
   position: fixed;
   bottom: 0;
   left: 0;
@@ -422,7 +422,7 @@
 /** pulsating arrow**/
 .arrow {
   text-align: center;
-  margin-bottom: 0;
+  margin - bottom: 0;
   padding: 0;
   color: #6ed8d1;
 }
@@ -566,11 +566,11 @@
   background-color: rgba(0,0,0,0);
   color: #0493bd;
 }
-
+  
 .montform  .submit:hover {
   color: #3498db;
 }
-
+  
 .ease {
   width: 0px;
   height: 74px;
